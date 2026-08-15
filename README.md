@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Varshitha 👋
+🔐 Aspiring Cloud Security Engineer | GCP-focused | Building from zero
 
-<!--
-**VarshithaJagadandi/VarshithaJagadandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm doing
+- 📚 27-month structured path → Cloud Security Engineer
+- 🐧 Currently: Linux fundamentals
 
-Here are some ideas to get you started:
+- ☁️ Next: Python → GCP Security → Security+ certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I'm building
+
+- [`linux-journey`](https://github.com/VarshithaJagadandi/linux-journey) — Linux notes, scripts, and mini projects
+
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/) ← add your LinkedIn URL here later
+
