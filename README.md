@@ -15,5 +15,5 @@
 
 ## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/) ← add your LinkedIn URL here later
+- 💼 [LinkedIn](https://www.linkedin.com/in/varshithajagadandi/)
 
